@@ -1,0 +1,24 @@
+*{
+	font: arial;
+}
+a{
+	text-decoration:none;
+}
+.nav-footer{
+	font: 18pt;
+	background-color: #6495ED;
+	position:absolute;
+	bottom: 0;
+	/*height: 40px;			
+	margin-top:40px;*/
+}
+.footer-button{
+	font:16pt arial;
+	outline:none;
+	border:none;
+}
+.about-me-pane{
+	width:200px;
+	height:400px;
+	background-color: #E6E6FA;
+}
